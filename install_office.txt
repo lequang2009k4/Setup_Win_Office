@@ -1,0 +1,6 @@
+Create-> c:\office2019
+	configuration.xml-> https://config.office.com/
+	file setup.exe-> https://www.microsoft.com/en-us/download/details.aspx?id=49117
+install( cmd run ad)
+      Lệnh 1: cd c:\office2019
+      Lệnh 2: setup.exe /configure configuration.xml 
