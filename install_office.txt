@@ -1,7 +1,7 @@
-Create-> c:\office2019
-	configuration.xml-> https://config.office.com/
-	file setup.exe-> https://www.microsoft.com/en-us/download/details.aspx?id=49117
-install( cmd run ad)
+* Create-> c:\office2019
+	- configuration.xml-> https://config.office.com/ -> create: 64bit( about of computer) -> ltsc 2021 profesino plus + volum license-> click application-> next-> next-> off uninstall msi -> kms -> finiish -> export xml-> accpet policy-> export
+	- file setup.exe-> https://www.microsoft.com/en-us/download/details.aspx?id=49117 -> download -> mở và chọn folder 
+* install( cmd run ad)
       Lệnh 1: cd c:\office2019
       Lệnh 2: setup.exe /configure configuration.xml 
 key: Y63J7-9RNDJ-GD3BV-BDKBP-HH966
